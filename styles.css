@@ -1,0 +1,43 @@
+:root {
+    --primary-color:hsl(215, 51%, 70%);
+    --secondary-color: hsl(178, 100%, 50%);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p {
+    font-size: 18px;
+}
+.main-bg {
+    background-color: hsl(217, 54%, 11%);
+}
+.card-bg {
+    background-color: (216, 50%, 16%);
+}
+.line {
+    background-color: (215, 32%, 27%);
+}
+.white {
+    background-color: (0, 0%, 100%);
+}
+
+/* .attribution { font-size: 11px; text-align: center; } */
+/* .attribution a { color: hsl(228, 45%, 44%); } */
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
+
+
+
+
+
+@media (min-width: 375px) {
+
+}
+@media (min-width: 1440px) {
+
+}
